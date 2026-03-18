@@ -5,6 +5,7 @@ body{
     min-width: 100dvw;
     display: flex;
     justify-content: center;
+    background-color: darkslategrey;
 }
 .login{
     font-family: Arial;
@@ -16,4 +17,11 @@ body{
     align-items: center;
     flex-direction: column;
     height: 50dvh;
+    position: relative;
+    top: 160px;
+}
+
+.btnentrar{
+    display: block;
+    background-color: antiquewhite;
 }
