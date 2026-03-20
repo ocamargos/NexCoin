@@ -70,23 +70,23 @@ body{
     color: #04133B;
 }
 
-.signup {
+.cadastrar {
     background: #FF6A00;
     color: white;
 }
 
-.signup:hover {
+.cadastrar:hover {
     background: #e55d00;
 }
 
-/* Texto de destaque hero */
+
 .hero-text {
-    font-family: 'Poppins', 'Segoe UI', sans-serif; /* fonte moderna e elegante */
-    font-size: 3rem;             /* grande e impactante */
-    font-weight: 700;            /* negrito e marcante */
-    background: linear-gradient(90deg, #FF6A00, #1A33D6); /* degradê laranja-azul */
+    font-family: 'Poppins', 'Segoe UI', sans-serif; 
+    font-size: 3rem;         
+    font-weight: 700;           
+    background: linear-gradient(90deg, #FF6A00, #1A33D6);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; /* deixa o degradê visível no texto */
+    -webkit-text-fill-color: transparent; 
     text-align: center;
     margin: 80px 20px;
     line-height: 1.2;
